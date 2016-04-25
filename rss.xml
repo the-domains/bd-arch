@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[BD Arch]]></title>
         <description><![CDATA[BD Arch]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bd-arch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 16:49:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 16:59:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bd-arch/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ea708f3-4903-4456-a783-5f0fc2441bcd.jpg">]]></description>
-            <link>undefinedc13a7ad8-03d5-4e37-8aa7-e558bc702425/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/067ddc12-aae1-4dad-971c-6add3037c6a3.jpg">]]></description>
+            <link>https://thegrid.ai/bd-arch/c13a7ad8-03d5-4e37-8aa7-e558bc702425/index.html</link>
             <guid isPermaLink="false">c13a7ad8-03d5-4e37-8aa7-e558bc702425</guid>
-            <pubDate>Mon, 25 Apr 2016 16:48:24 GMT</pubDate>
+            <pubDate>Mon, 25 Apr 2016 16:59:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
