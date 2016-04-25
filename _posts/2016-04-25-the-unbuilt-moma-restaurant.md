@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: the unbuilt MoMa Restaurant
-datePublished: '2016-04-25T17:08:28.670Z'
-dateModified: '2016-04-25T17:07:58.953Z'
+datePublished: '2016-04-25T17:22:15.913Z'
+dateModified: '2016-04-25T17:08:51.782Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-25-the-unbuilt-moma-restaurant.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-the-unbuilt-moma-restaurant.md
-published: true
 url: the-unbuilt-moma-restaurant/index.html
 _type: Article
 
