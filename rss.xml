@@ -4,7 +4,7 @@
         <description><![CDATA[BD Arch]]></description>
         <link>https://thegrid.ai/bd-arch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 17:05:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 17:09:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bd-arch/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/bd-arch/c13a7ad8-03d5-4e37-8aa7-e558bc702425/index.html</link>
             <guid isPermaLink="false">c13a7ad8-03d5-4e37-8aa7-e558bc702425</guid>
             <pubDate>Mon, 25 Apr 2016 17:05:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77582887-ae2b-45b1-b60e-cdcdf0773c08.png">]]></description>
+            <link>https://thegrid.ai/bd-arch/the-unbuilt-moma-restaurant/index.html</link>
+            <guid isPermaLink="false">03f39989-89f1-4fde-9270-6b8e2de53d8a</guid>
+            <pubDate>Mon, 25 Apr 2016 17:08:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
